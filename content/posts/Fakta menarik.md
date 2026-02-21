@@ -15,26 +15,69 @@ tags = ["gizi", "2025", "pld"]
 +++
 
 # Fakta Menarik Web Browser
+<div style="text-align:center; margin:40px 0;">
 
-## 🌐 Google Chrome
+  <h2 style="margin-bottom:20px;">Web Browser Populer</h2>
+
+  <div style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap;">
+    <div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/120px-Google_Chrome_icon_%28February_2022%29.svg.png" 
+           alt="Google Chrome" width="90">
+      <p style="margin-top:10px;"><strong>Google Chrome</strong></p>
+    </div>
+    <div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" 
+           alt="Mozilla Firefox" width="90">
+      <p style="margin-top:10px;"><strong>Mozilla Firefox</strong></p>
+    </div>
+    <div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Microsoft_Edge_logo_%282019%29.png/120px-Microsoft_Edge_logo_%282019%29.png" 
+           alt="Microsoft Edge" width="90">
+      <p style="margin-top:10px;"><strong>Microsoft Edge</strong></p>
+    </div>
+
+  </div>
+
+</div>
+
+## Google Chrome
 
 <div style="float: right; margin: 0 0 15px 15px; border: 1px solid #ccc; padding: 10px; width: 250px; background-color: #f9f9f9; font-size: 0.9em; color: #333;">
     <img src="https://www.google.com/chrome/static/images/chrome-logo.svg" width="100%" style="margin-bottom: 10px;">
-    <table style="width: 100%; border-collapse: collapse; border: none;">
+    <table style="width: 100%; border-collapse: collapse; border: none; margin-bottom: 10px;">
         <tr><td colspan="2" style="text-align: center; background: #eee; padding: 5px;"><b>Informasi Cepat</b></td></tr>
-        <tr><td style="padding: 3px;"><b>Rilis:</b></td><td>2008</td></tr>
-        <tr><td style="padding: 3px;"><b>Mesin:</b></td><td>Chromium</td></tr>
-        <tr><td style="padding: 3px;"><b>Lisensi:</b></td><td>Proprietary</td></tr>
+        <tr><td style="padding: 3px;"><b>Rilis:</b></td><td>September 2, 2008</td></tr>
+        <tr><td style="padding: 3px;"><b>Mesin:</b></td><td>Blink (en), V8 dan WebKit</td></tr>
+        <tr><td style="padding: 3px;"><b>Lisensi:</b></td><td>Hak milik freeware</td></tr>
+        <tr><td style="padding: 3px;"><b>Bahasa:</b></td><td>C++</td></tr>
+    </table>
+    <table style="width: 100%; border-collapse: collapse; border: none;">
+        <tr><td colspan="2" style="text-align: center; background: #eee; padding: 5px;"><b>Informasi Tambahan</b></td></tr>
+        <tr><td style="padding: 3px;"><b>Situs web:</b></td><td><a href="https://www.google.com/chrome/" target="_blank">google.com</a></td></tr>
+            <td colspan="2" style="text-align: center; padding-top: 10px;">
+                <span style="font-size: 20px; cursor: pointer;">🌐</span>
+            </td>
+        </tr>
     </table>
 </div>
 
-Google Chrome adalah peramban web lintas platform yang dikembangkan oleh Google. Peramban ini pertama kali dirilis pada tahun 2008 untuk Microsoft Windows, kemudian diporting ke Android, iOS, Linux, dan macOS yang menjadikannya sebagai peramban bawaan dalam sistem operasi. Peramban ini juga merupakan komponen utama Chrome OS, yang berfungsi sebagai platform untuk aplikasi web.
-* *Status:* Browser dengan jumlah pengguna terbanyak di dunia.
-* *Mesin:* Menggunakan mesin *Chromium* serta *V8 JavaScript Engine* yang cepat dan responsif.
-* *Fitur Utama:* * Akses ribuan ekstensi di Chrome Web Store.
-    * Terhubung langsung dengan ekosistem Google (Gmail, Drive, Translate).
-    * Sinkronisasi data antar perangkat (bookmark, password).
-* *Catatan:* Performa tinggi, namun penggunaan RAM cenderung besar.
+### Sejarah dan Perkembangan
+Google Chrome adalah peramban web lintas platform yang dikembangkan oleh raksasa teknologi Google. Pertama kali dirilis secara resmi pada 2 September 2008, Chrome awalnya hanya ditujukan bagi pengguna Windows sebelum akhirnya merambah ke Android, iOS, Linux, dan macOS. Sejak kemunculannya, Chrome telah berhasil menggeser dominasi peramban lain seperti Internet Explorer dan Mozilla Firefox berkat fokusnya pada kecepatan, keamanan, dan kesederhanaan tampilan.
+
+Teknologi dan Ekosistem
+Daya tarik utama Google Chrome terletak pada mesin dasarnya yang menggunakan proyek sumber terbuka bernama Chromium serta V8 JavaScript Engine yang dikenal sangat responsif dalam memproses data website. Selain itu, integrasi yang sangat erat dengan ekosistem Google menjadi keunggulan yang sulit dikalahkan. Dengan masuk menggunakan akun Google, pengguna dapat melakukan sinkronisasi riwayat penelusuran, kata sandi, hingga penanda buku (bookmark) secara instan di semua perangkat mereka.
+
+### Fitur Unggulan
+Ekstensi Melimpah: Chrome Web Store menyediakan ribuan ekstensi yang memungkinkan pengguna mempersonalisasi peramban mereka untuk produktivitas, hiburan, hingga keamanan.
+
+Mode Penyamaran (Incognito): Fitur privasi yang memastikan riwayat penelusuran dan kuki tidak tersimpan secara lokal di perangkat setelah jendela ditutup.
+
+Keamanan Tinggi: Chrome dilengkapi dengan fitur pemindaian situs berbahaya dan perlindungan terhadap phishing secara real-time.
+
+### Kekurangan
+Meskipun menjadi yang tercepat, Google Chrome sering dikritik karena sifatnya yang "rakus" terhadap memori (RAM). Hal ini disebabkan oleh arsitektur multi-process di mana setiap tab dan ekstensi berjalan sebagai proses mandiri untuk menjaga stabilitas sistem. Tujuannya agar jika satu tab mengalami gangguan (crash), seluruh jendela browser tidak akan ikut tertutup, meskipun konsekuensinya adalah beban memori yang lebih tinggi pada laptop.
+
+
 
 <div style="clear: both;"></div>
 
@@ -44,46 +87,69 @@ Google Chrome adalah peramban web lintas platform yang dikembangkan oleh Google.
 
 <div style="float: right; margin: 0 0 15px 15px; border: 1px solid #ccc; padding: 10px; width: 250px; background-color: #f9f9f9; font-size: 0.9em; color: #333;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" width="100%" style="margin-bottom: 10px;">
-    <table style="width: 100%; border-collapse: collapse; border: none;">
+    <table style="width: 100%; border-collapse: collapse; border: none; margin-bottom: 10px;">
         <tr><td colspan="2" style="text-align: center; background: #eee; padding: 5px;"><b>Informasi Cepat</b></td></tr>
-        <tr><td style="padding: 3px;"><b>Pengembang:</b></td><td>Mozilla</td></tr>
-        <tr><td style="padding: 3px;"><b>Mesin:</b></td><td>Gecko</td></tr>
+        <tr><td style="padding: 3px;"><b>Rilis:</b></td><td>2 September 23, 2002</td></tr>
+        <tr><td style="padding: 3px;"><b>Mesin:</b></td><td>Gecko, Quantum dan spidermonkey</td></tr>
         <tr><td style="padding: 3px;"><b>Sifat:</b></td><td>Open-source</td></tr>
+        <tr><td style="padding: 3px;"><b>Bahasa:</b></td><td>	C, C++, Javascript, Cascading Style Sheets, Rust  Terjemahkan dan XML User Interface Language </td></tr>
+    </table>
+    <table style="width: 100%; border-collapse: collapse; border: none;">
+        <tr><td colspan="2" style="text-align: center; background: #eee; padding: 5px;"><b>Informasi Tambahan</b></td></tr>
+        <tr><td style="padding: 3px;"><b>Situs web:</b></td><td><a href="https://www.mozilla.org/firefox/" target="_blank">mozilla.org</a></td></tr>
+            <td colspan="2" style="text-align: center; padding-top: 10px;">
+                <span style="font-size: 20px; cursor: pointer;">🦊</span>
+            </td>
+        </tr>
     </table>
 </div>
 
-Mozilla Firefox, yang awalnya dikenal sebagai Phoenix dan Mozilla Firebird, merupakan peramban web lintas platform berbasis sumber terbuka (open source) yang dikembangkan oleh Yayasan Mozilla bersama ratusan sukarelawan. Sejak peluncuran versi 1.0 pada 9 November 2004, peramban ini mendapatkan sambutan hangat dari media ternama seperti Forbes dan Wall Street Journal, serta mencatat popularitas yang luar biasa dengan meraih lebih dari 6 juta unduhan hanya dalam waktu kurang dari satu bulan. Pencapaian tersebut mengukuhkan Firefox sebagai salah satu perangkat lunak bebas yang paling banyak digunakan oleh pengguna rumahan di masa awal perilisannya.
-* *Teknologi:* JavaScript, CSS, Gecko, Quantum, dan SpiderMonkey.
-* *Fokus Utama:* Sangat mengutamakan *Privasi Pengguna*.
-* *Keunggulan:*
-    * Fitur Enhanced Tracking Protection untuk memblokir pelacak iklan.
-    * Bersifat *Open-source*, dikembangkan secara transparan oleh komunitas.
-    * Menggunakan mesin Gecko dan Quantum Engine untuk stabilitas.
+### Sejarah dan Perkembangan
+Mozilla Firefox awalnya lahir sebagai proyek eksperimental dari Yayasan Mozilla dengan nama kode Phoenix pada tahun 2002. Peramban ini dikembangkan oleh sekelompok sukarelawan yang ingin menciptakan alternatif yang lebih ringan dan cepat dibandingkan paket perangkat lunak Mozilla Suite yang ada saat itu. Setelah sempat berganti nama menjadi Firebird karena masalah merek dagang, peramban ini akhirnya resmi diluncurkan dengan nama Firefox pada 9 November 2004. Peluncuran versi 1.0 ini sukses besar dan dianggap sebagai ancaman serius pertama bagi dominasi Internet Explorer karena menawarkan keamanan yang lebih baik dan fitur tab yang revolusioner pada zamannya.
+
+### Fitur Unggulan
+Salah satu fitur paling ikonik dari Firefox adalah Enhanced Tracking Protection yang secara otomatis memblokir ribuan pelacak iklan dan skrip rahasia agar aktivitas pribadi Anda tidak diintai oleh perusahaan pihak ketiga. Selain itu, Firefox menggunakan mesin Gecko dan Quantum Engine yang memungkinkan pemuatan halaman web tetap stabil meskipun pengguna membuka banyak tab sekaligus. Peramban ini juga sangat dikenal dengan sifatnya yang Open-source, artinya kodenya terbuka untuk umum sehingga komunitas di seluruh dunia dapat ikut mengawasi keamanan dan transparansi datanya, menjadikannya peramban yang sangat dipercaya dari sisi privasi.
+
+### Kekurangan
+Meskipun unggul dalam privasi, Firefox sering kali kalah dalam hal kecepatan muat halaman jika dibandingkan dengan peramban berbasis Chromium, terutama pada situs-situs yang memiliki banyak elemen grafis berat. Dari sisi teknis, Firefox terkadang mengalami masalah kompatibilitas, di mana ada situs web tertentu yang tidak berfungsi secara maksimal karena pengembang web lebih memprioritaskan optimasi untuk Google Chrome. Selain itu, bagi pengguna laptop dengan spesifikasi rendah, Firefox masih sering dianggap rakus RAM, dan jumlah koleksi ekstensinya di pustaka add-on masih belum sebanyak yang tersedia di Chrome Web Store.
 
 <div style="clear: both;"></div>
 
 ---
 
-## 🧭 Microsoft Edge
+## Microsoft Edge
 
 <div style="float: right; margin: 0 0 15px 15px; border: 1px solid #ccc; padding: 10px; width: 250px; background-color: #f9f9f9; font-size: 0.9em; color: #333;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg" width="100%" style="margin-bottom: 10px;">
-    <table style="width: 100%; border-collapse: collapse; border: none;">
+    <table style="width: 100%; border-collapse: collapse; border: none; margin-bottom: 10px;">
         <tr><td colspan="2" style="text-align: center; background: #eee; padding: 5px;"><b>Informasi Cepat</b></td></tr>
-        <tr><td style="padding: 3px;"><b>Rilis:</b></td><td>2015</td></tr>
-        <tr><td style="padding: 3px;"><b>Mesin:</b></td><td>Chromium</td></tr>
-        <tr><td style="padding: 3px;"><b>Fitur:</b></td><td>Sleeping Tabs</td></tr>
+        <tr><td style="padding: 3px;"><b>Rilis:</b></td><td>29 Juli 2015</td></tr>
+        <tr><td style="padding: 3px;"><b>Mesin:</b></td><td>Chromium, Blink</td></tr>
+        <tr><td style="padding: 3px;"><b>Lisensi:</b></td><td>Proprietary</td></tr>
+        <tr><td style="padding: 3px;"><b>Bahasa:</b></td><td>C++, C#</td></tr>
+    </table>
+    <table style="width: 100%; border-collapse: collapse; border: none;">
+        <tr><td colspan="2" style="text-align: center; background: #eee; padding: 5px;"><b>Informasi Tambahan</b></td></tr>
+        <tr><td style="padding: 3px;"><b>Situs web:</b></td><td><a href="https://www.microsoft.com/edge" target="_blank">microsoft.com</a></td></tr>
+        <tr><td style="padding: 3px;"><b>Subreddit:</b></td><td>MicrosoftEdge 🔗</td></tr>
+        <tr>
+            <td colspan="2" style="text-align: center; padding-top: 10px;">
+                <span style="font-size: 20px; cursor: pointer;">🧭</span>
+            </td>
+        </tr>
     </table>
 </div>
 
-Microsoft Edge, yang awalnya dikembangkan dengan nama kode Project Spartan, merupakan peramban web besutan Microsoft yang resmi dirilis pada 29 Juli 2015 untuk menggantikan posisi Internet Explorer sebagai peramban utama pada sistem operasi Windows 10. Dirancang sebagai peramban yang ringan dan modern, Edge kini telah tersedia di berbagai platform seperti Android serta iOS dengan mengutamakan standar web terbaru dan menghapus teknologi lama seperti ActiveX. Selain itu, peramban ini menawarkan fungsionalitas yang terintegrasi erat dengan ekosistem layanan Microsoft, termasuk dukungan asisten digital Cortana, penyimpanan OneDrive, serta fitur produktivitas seperti alat penjelasan dan modus membaca bagi para penggunanya.
-* *Versi Terbaru:* Berbasis *Chromium* (sejak 2020), sehingga mendukung ekstensi Chrome.
-* *Integrasi:* Sangat kompatibel dengan Microsoft Office dan OneDrive.
-* *Kelebihan:* * Fitur *Sleeping Tabs* yang efektif menghemat penggunaan RAM.
-    * Lebih hemat baterai, terutama di laptop Windows.
-    * Keamanan tingkat tinggi khas Microsoft.
+### Sejarah dan Perkembangan
+Microsoft Edge resmi diluncurkan pada 29 Juli 2015 sebagai bagian dari Windows 10, bertujuan untuk menggantikan posisi Internet Explorer yang sudah dianggap ketinggalan zaman. Pada awalnya, Edge menggunakan mesin buatan Microsoft sendiri yang bernama EdgeHTML. Namun, titik balik besar terjadi pada tahun 2020 ketika Microsoft memutuskan untuk merombak total Edge dan beralih menggunakan mesin Chromium, mesin yang sama dengan yang digunakan oleh Google Chrome. Keputusan ini mengubah Edge menjadi peramban yang jauh lebih cepat, stabil, dan kompatibel dengan standar web modern masa kini.
 
-<div style="clear: both;"></div>
+### Fitur Unggulan
+Salah satu fitur paling menonjol dari Microsoft Edge adalah Sleeping Tabs, yang secara otomatis menonaktifkan tab yang tidak digunakan untuk menghemat penggunaan RAM dan daya baterai laptop. Selain itu, karena berbasis Chromium, Edge memiliki keunggulan unik berupa dukungan penuh terhadap hampir semua ekstensi dari Chrome Web Store. Bagi pengguna Windows, Edge menawarkan integrasi yang sangat mendalam dengan ekosistem Microsoft 365 dan layanan asisten digital, serta fitur Collections yang memudahkan pengguna untuk mengorganisir riset atau belanja online secara rapi.
+
+### Kekurangan
+Meskipun telah bertransformasi secara luar biasa, Microsoft Edge tetap memiliki beberapa kekurangan. Banyak pengguna merasa terganggu dengan strategi Microsoft yang dianggap terlalu agresif dalam mempromosikan Edge melalui pembaruan sistem Windows, yang sering kali mencoba memaksa pengguna untuk menjadikannya peramban utama. Selain itu, tampilan antarmukanya terkadang terasa terlalu penuh (cluttered) dengan berbagai fitur tambahan dan berita yang mungkin tidak diperlukan oleh semua orang. Masalah privasi juga tetap menjadi perhatian, karena adanya pengumpulan data pengguna oleh Microsoft untuk keperluan sinkronisasi dan personalisasi iklan.
+
+<div style="clear: both;">🧭</div>
 
 ---
 
