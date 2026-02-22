@@ -11,7 +11,7 @@ author = [
     "6. Oxza Kharomatul Aula"
 ]
 categories = ["pld", "2025"]
-tags = ["gizi", "2025", "pld"]
+tags = ["Google", "Chrome", "GoogleChrome", "Microsoft", "Microsoft Edge", "Mozilla Firefox"]
 +++
 
 # Fakta Menarik Web Browser
