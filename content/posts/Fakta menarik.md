@@ -83,7 +83,7 @@ Meskipun menjadi yang tercepat, Google Chrome sering dikritik karena sifatnya ya
 
 ---
 
-## 🦊 Mozilla Firefox
+##  Mozilla Firefox
 
 <div style="float: right; margin: 0 0 15px 15px; border: 1px solid #ccc; padding: 10px; width: 250px; background-color: #f9f9f9; font-size: 0.9em; color: #333;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" width="100%" style="margin-bottom: 10px;">
@@ -149,7 +149,7 @@ Salah satu fitur paling menonjol dari Microsoft Edge adalah Sleeping Tabs, yang 
 ### Kekurangan
 Meskipun telah bertransformasi secara luar biasa, Microsoft Edge tetap memiliki beberapa kekurangan. Banyak pengguna merasa terganggu dengan strategi Microsoft yang dianggap terlalu agresif dalam mempromosikan Edge melalui pembaruan sistem Windows, yang sering kali mencoba memaksa pengguna untuk menjadikannya peramban utama. Selain itu, tampilan antarmukanya terkadang terasa terlalu penuh (cluttered) dengan berbagai fitur tambahan dan berita yang mungkin tidak diperlukan oleh semua orang. Masalah privasi juga tetap menjadi perhatian, karena adanya pengumpulan data pengguna oleh Microsoft untuk keperluan sinkronisasi dan personalisasi iklan.
 
-<div style="clear: both;">🧭</div>
+<div style="clear: both;"></div>
 
 ---
 
